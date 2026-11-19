@@ -1,0 +1,12 @@
+# Large data files
+*.csv
+owid-covid-data.csv.gz
+covid.csv
+
+# Model files
+*.pth
+
+# Cache
+__pycache__/
+*.pyc
+.DS_Store
